@@ -22,7 +22,7 @@ Clone the repository to your local machine:
 </p>
 
 ```bash
-git clone &lt;your_project_repo_url&gt;
+git clone https://github.com/nasirharoon786/TranslationsTask.git;
 ```
 
 ### 2. Navigate to the Project Directory
@@ -32,7 +32,7 @@ Change to the cloned project directory:
 </p>
 
 ```bash
-cd &lt;project_directory_name&gt;
+cd TranslationsTask;
 ```
 
 ### 3. Install Dependencies
